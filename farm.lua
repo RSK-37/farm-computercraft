@@ -1,7 +1,3 @@
--- Author: Flyboxx               --
--- Date: Dec/5/2014              --
--- Version: TEKKIT               --
--- Updated Jan/31/2017 to TEKKIT --
 
 clearscr = function()
   term.clear()
